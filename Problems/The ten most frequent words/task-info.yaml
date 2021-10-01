@@ -1,0 +1,30 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+        public static void main(String[] args) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2449
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 8. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Functions bring happiness!
+    Correct output:
+    bring
+    functions
+    happiness
+
+    Your code output:
+    functionsbringhappiness
+  time: Sat, 12 Jun 2021 23:06:54 UTC
+record: -1

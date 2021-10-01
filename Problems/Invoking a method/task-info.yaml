@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.lang.reflect.InvocationTargetException;
+    import java.lang.reflect.Method;
+
+    class MethodsDemo {
+
+        public static void main(String[] args) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12551
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:13: error: exception ClassNotFoundException is never thrown in body of corresponding try statement
+            } catch (ClassNotFoundException | IllegalAccessException | InvocationTargetException e) {
+              ^
+    1 error
+  time: Mon, 12 Jul 2021 21:14:14 UTC
+record: -1
